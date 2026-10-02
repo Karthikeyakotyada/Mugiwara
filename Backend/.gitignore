@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Temp uploads & scratch
+scratch/
+uploads/
+
+# Logs
+*.log

@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Production output
+dist/
+build/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
